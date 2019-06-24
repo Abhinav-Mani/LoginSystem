@@ -1,0 +1,20 @@
+#body-left
+{
+	/*background: url("../res/left.jpg");*/
+
+}
+#body
+{
+	background: #d8d8d8;
+}
+.error
+{
+	color: red;
+	
+}
+#SignUp
+{
+	
+	padding: 5%;
+	margin: 5%;
+}
