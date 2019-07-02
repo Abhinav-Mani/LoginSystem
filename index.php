@@ -9,7 +9,7 @@ if (isset($_SESSION['username'])) {
  <head>
  	<link rel="stylesheet" type="text/css" href="Style/bootstrap.css">
  	<link rel="stylesheet" type="text/css" href="Style/style.css">
- 	<title>Myblog</title>
+ 	<title>MyblogLO</title>
  </head>
  <body>
  	<nav class="navbar navbar-expand-lg navbar-dark bg-dark" data-spy="affix">
